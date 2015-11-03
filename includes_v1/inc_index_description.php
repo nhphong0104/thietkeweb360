@@ -1,103 +1,69 @@
-<div id="index-description">
-  <div class="container">
-    <div class="row index-description-title">
-      <div class="col-md-12 text-center">
-        <h3 class="text-large">
-          Bizweb giúp bạn bán hàng dễ dàng hơn
-        </h3>
-        <p class="caption">
-          Bizweb đã đem lại trên 
-          <span class="text-aqua">
-            6,900 tỷ
-          </span>
-          VND doanh thu cho 
-          <span class="text-aqua">
-            10,000+
-          </span>
-          chủ website
-        </p>
+<div class="container">
+    <div class="row margin-top-40">
+      <div class="col-lg-12">
+         <div id="toolbar">
+            <h2 style="text-align: center;">Siêu thị trang web</h2>
+         </div>
+         <div class="clear">
+         </div>
+         <div id="wrapper" class="default-wrapper">
+            <div class="col-lg-12 text-center hidden" id="loadTheme">
+            <img src="/Themes/Portal/Shared/Images/spinner.gif" />
+            </div>
+            <div id="divTheme">
+               <div class="skins-home-items">
+                  <div class="skin-item nn-prod-box">
+                     <a title="Fashion 08 - Avenue" href="/avanue-theme" class="thumbnail">
+                        <div class="">
+                           <img class="img-responsive" alt="" src="https://s3-ap-southeast-1.amazonaws.com/bizweb-themes/themes/7/themestores/7233f96868c582b00fdd6c8541985851.jpg?1445600058320">
+                              <div class="nn-prod-icon">
+                              <h4>
+                              Fashion 08 - Avenue
+                              </h4>
+                           </div>
+                        </div>
+                     </a>
+                  </div>  
+                  <div class="skin-item nn-prod-box">
+                     <a title="Fashion 08 - Avenue" href="/avanue-theme" class="thumbnail">
+                        <div class="">
+                           <img class="img-responsive" alt="" src="https://s3-ap-southeast-1.amazonaws.com/bizweb-themes/themes/7/themestores/7233f96868c582b00fdd6c8541985851.jpg?1445600058320">
+                              <div class="nn-prod-icon">
+                              <h4>
+                              Fashion 08 - Avenue
+                              </h4>
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="skin-item nn-prod-box">
+                     <a title="Fashion 08 - Avenue" href="/avanue-theme" class="thumbnail">
+                        <div class="">
+                           <img class="img-responsive" alt="" src="https://s3-ap-southeast-1.amazonaws.com/bizweb-themes/themes/7/themestores/7233f96868c582b00fdd6c8541985851.jpg?1445600058320">
+                              <div class="nn-prod-icon">
+                              <h4>
+                              Fashion 08 - Avenue
+                              </h4>
+                           </div>
+                        </div>
+                     </a>
+                  </div> 
+                  <div class="skin-item nn-prod-box">
+                      <a title="Beauty 02 - Aqua Spa" href="/beauty-02-aqua-spa" class="thumbnail">
+                          <div class="">
+                              <img class="img-responsive" alt="" src="https://s3-ap-southeast-1.amazonaws.com/bizweb-themes/themes/1042/themestores/4ac22e076ebef1bfa3892781ed543457.jpg?1446484639790">
+                              <div class="nn-prod-icon">
+                                  <h4>Beauty 02 - Aqua Spa</h4>
+                                  <span>Miễn phí</span>
+                              </div>
+                          </div>
+                      </a>
+                  </div>
+               </div>
+            </div>
+            <div class="clear">
+            </div>
+         </div>
       </div>
-    </div>
-    <div class="row index-description-items content-description">
-      <div id="owl-demo" class="owl-carousel owl-theme">
-        <div class="item desc-item desc-item1">
-          <div class="desc-item desc-item1">
-            <div class="col-xs-12 col-sm-6 col-md-7 col-md-push-5 col-sm-push-6 ">
-              <div id="img-inside1" class="bg-img-description">
-                <img src="/themes/v1/images/banner/img-banner-1.png" class="img-responsive img-inside">
-              </div>
-            </div>
-            <div id="des-content1" class="col-xs-12 col-sm-6 col-md-5 detail-item col-md-pull-7 col-sm-pull-6">
-              <h4>
-                Hệ thống quản lý website ưu việt
-              </h4>
-              <span>
-                Quản lý cửa hàng thông minh
-              </span>
-              <span>
-                Quản trị website trên mọi thiết bị
-              </span>
-              <span>
-                Đầy đủ tính năng giúp bạn bán hàng
-              </span>
-            </div>
-          </div>
-        </div>
-        <div class="item desc-item desc-item1">
-          <div class="desc-item desc-item1">
-            <div class="col-xs-12 col-sm-6 col-md-7 col-md-push-5 col-sm-push-6 ">
-              <div id="img-inside1" class="bg-img-description">
-                <img src="/themes/v1/images/banner/img-banner-3.png" class="img-responsive img-inside">
-              </div>
-            </div>
-            <div id="des-content1" class="col-xs-12 col-sm-6 col-md-5 detail-item col-md-pull-7 col-sm-pull-6">
-              <h4>
-                Website của bạn, phong cách của bạn
-              </h4>
-              <span>
-                Kho giao diện đa dạng, phong phú
-              </span>
-              <span>
-                Tùy biến giao diện không giới hạn
-              </span>
-              <span>
-                Responsive, hiển  thị đẹp trên mọi thiết bị
-              </span>
-              <a href="https://themes.bizweb.vn/">
-                Xem thêm kho giao diện >
-                >
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="item desc-item desc-item1">
-          <div class="desc-item desc-item1">
-            <div class="col-xs-12 col-sm-6 col-md-7 col-md-push-5 col-sm-push-6 ">
-              <div id="img-inside1" class="bg-img-description">
-                <img src="/themes/v1/images/banner/img-banner-2.png" class="img-responsive img-inside">
-              </div>
-            </div>
-            <div id="des-content1" class="col-xs-12 col-sm-6 col-md-5 detail-item col-md-pull-7 col-sm-pull-6">
-              <h4>
-                Mang khách hàng đến bên bạn
-              </h4>
-              <span>
-                Tối ưu hóa bộ máy tìm kiếm - SEO
-              </span>
-              <span>
-                Kết nối và bán hàng trên mạng xã hội
-              </span>
-              <span>
-                Tiếp cận khách hàng tiềm năng
-              </span>
-              <a href="tinh-nang-noi-bat.html">
-                Tìm hiểu thêm Bizweb >
-                >
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+   </div>
 </div>

@@ -1,8 +1,8 @@
-<div id="header" class="index">
+<div id="header">
     <div class="container">
         <div class="col-sm-4 col-md-2 hidden-xs hidden-sm no-padding main-logo">
             <a id="logo" href="/">
-                <img src="themes/v1/images/bizweb_new_logo.png" alt="Bizweb">
+                <img src="" alt="Bizweb">
             </a>
         </div>
         <div class="col-xs-6 col-sm-5 hidden-lg hidden-md no-padding btn-menu">
@@ -10,28 +10,15 @@
                 <i class="fa fa-bars fa-2x"></i>
             </button>
             <a class="small-logo hidden-lg hidden-md" href="/">
-                <img src="themes/v1/images/bizweb_new_logo.png" alt="Bizweb">
+                <img src="" alt="Bizweb">
             </a>
         </div>
         <div class="col-xs-6 col-sm-7 col-md-10 text-right no-padding">
             <ul class="main-menu hidden-sm hidden-xs">
                 <li>
-                    <a class="menu-item " href="/tinh-nang-noi-bat.html">Tính năng</a>
-                </li>
-                <li>
-                    <a class="menu-item " href="/bang-gia.html">Bảng giá</a>
-                </li>
-                <li>
-                    <a class="menu-item" href="https://themes.bizweb.vn/">Kho giao diện</a>
-                </li>
-                <li>
                     <a class="menu-item" href="https://apps.bizweb.vn/">Kho ứng dụng</a>
                 </li>
-                <li>
-                  <a class="menu-item" href="http://blog.bizweb.vn/">
-                    Blog
-                  </a>
-                </li>
+
                 <li class="sub-lv2">
                     <a class="menu-item" href="#">Thêm</a>
                     <ul>
@@ -55,20 +42,25 @@
                             <a href="https://experts.bizweb.vn/">Chuyên gia Bizweb</a>
                         </li>
                         <li>
-                          <a href="/doi-tac.html">Đối tác</a>
+                            <a href="http://blog.bizweb.vn/">
+                                Blog
+                            </a>
+                        </li>
+                        <li class="hidden-lg">
+                            <a href="//www.bizweb.vn/doi-tac.html">Đối tác</a>
                         </li>
                         <li>
-                          <a href="/website-tham-khao.html">
-                            Website tham khảo
-                          </a>
+                            <a href="//www.bizweb.vn/website-tham-khao.html">
+                                Website tham khảo
+                            </a>
                         </li>
                         <li>
-                          <a href="/ve-chung-toi.html">
-                            Về chúng tôi
-                          </a>
+                            <a href="//www.bizweb.vn/ve-chung-toi.html">
+                                Về chúng tôi
+                            </a>
                         </li>
                         <li>
-                            <a href="/lien-he.html">
+                            <a href="//www.bizweb.vn/lien-he.html">
                                 Liên hệ
                             </a>
                         </li>
@@ -87,59 +79,95 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li>
-                    <a class="menu-item" href="/tinh-nang-noi-bat.html">Tính năng</a>
+                    <a class="menu-item" href="https://apps.bizweb.vn/">Kho ứng dụng</a>
                 </li>
                 <li>
-                    <a class="menu-item" href="/bang-gia.html">Bảng giá</a>
+                    <a href="https://docs.bizweb.vn">
+                        Tài liệu
+                    </a>
                 </li>
                 <li>
-                  <a class="menu-item" href="https://themes.bizweb.vn/">Kho giao diện</a>
+                    <a href="https://docs.bizweb.vn/help.html">
+                        Trợ giúp
+                    </a>
                 </li>
                 <li>
-                  <a class="menu-item" href="https://apps.bizweb.vn/">Kho ứng dụng</a>
+                    <a href="http://forum.bizweb.vn/">
+                        Diễn đàn
+                    </a>
                 </li>
                 <li>
-                  <a class="menu-item" href="http://blog.bizweb.vn/">
-                    Blog
-                  </a>
+                    <a href="https://experts.bizweb.vn/">Chuyên gia Bizweb</a>
                 </li>
                 <li>
-                  <a href="https://docs.bizweb.vn">
-                    Tài liệu
-                  </a>
+                    <a href="http://blog.bizweb.vn/">
+                        Blog
+                    </a>
                 </li>
                 <li>
-                  <a href="https://docs.bizweb.vn/help.html">
-                    Trợ giúp
-                  </a>
+                    <a href="//www.bizweb.vn/website-tham-khao.html">
+                        Website tham khảo
+                    </a>
                 </li>
                 <li>
-                  <a href="http://forum.bizweb.vn/">
-                    Diễn đàn
-                  </a>
+                    <a href="//www.bizweb.vn/ve-chung-toi.html">
+                        Về chúng tôi
+                    </a>
                 </li>
                 <li>
-                  <a href="https://experts.bizweb.vn/">Chuyên gia Bizweb</a>
-                </li>
-                <li>
-                  <a href="/doi-tac.html">Đối tác</a>
-                </li>
-                <li>
-                  <a href="/website-tham-khao.html">
-                    Website tham khảo
-                  </a>
-                </li>
-                <li>
-                  <a href="/ve-chung-toi.html">
-                    Về chúng tôi
-                  </a>
-                </li>
-                <li>
-                  <a href="/lien-he.html">
-                    Liên hệ
-                  </a>
+                    <a href="//www.bizweb.vn/lien-he.html">
+                        Liên hệ
+                    </a>
                 </li>
             </ul>
         </div>
     </div>
 </div>
+  <script type="text/javascript">
+    function onResize() {
+      var ww = $(window).width()
+          if (ww <= 385) {
+            if ($("#header").hasClass("index") || $("#header").hasClass("aqua")) {
+              $("#header #logo img").attr("src", "themes/v1/images/bizweb_new_logo_short.png");
+              $("#header .small-logo img").attr("src", "themes/v1/images/bizweb_new_logo_short.png");
+            }
+          else {
+            $("#header #logo img").attr("src", "themes/v1/images/bizweb_old_logo_short.png");
+            $("#header .small-logo img").attr("src", "themes/v1/images/bizweb_old_logo_short.png");
+          }
+        }
+      else {
+        if ($("#header").hasClass("index") || $("#header").hasClass("aqua")) {
+          $("#header #logo img").attr("src", "themes/v1/images/logonew.png");
+          $("#header .small-logo img").attr("src", "themes/v1/images/logonew.png");
+        }
+        else {
+          $("#header #logo img").attr("src", "themes/v1/images/logonew.png");
+          $("#header .small-logo img").attr("src", "themes/v1/images/logonew.png");
+        }
+      }
+    }
+  
+  $(window).resize(function () {
+    onResize();
+  }
+                  );
+  $(window).trigger('resize');
+  
+  function isVisibleScrollbar() {
+    var offset = $("#header").offset();
+    var curWin = $(window);
+    
+    var top = curWin.scrollTop() - 51;
+    if (top >= 0)
+      return true;
+    
+    return false;
+  }
+  
+  
+  $(function () {
+    $("#header:not(.index):not(.aqua) #logo img").attr("src", "themes/v1/images/logonew.png");
+  }
+   );
+  </script>

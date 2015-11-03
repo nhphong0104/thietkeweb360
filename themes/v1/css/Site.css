@@ -1,0 +1,120 @@
+﻿/*@font-face {
+    font-family: "Roboto-Light";
+    font-weight: 400;
+    src: url("/Themes/Portal/Default/Fonts/Roboto/Roboto-Light.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Thin";
+    font-weight: 400;
+    src: url("/Themes/Portal/Default/Fonts/Roboto/Roboto-Thin.ttf");
+}*/
+
+#header {
+    color: #ffffff;
+    min-height: inherit;
+    position: relative;
+    width: 100%;
+    z-index: 100;
+}
+
+    #header ul:not(.nav) > li > a.menu-item:hover {
+        background-color: transparent;
+        border-top: 1px solid #18a4dd;
+        color: #18a4dd;
+    }
+
+    #header ul:not(.nav) > li > a.menu-item.active {
+        background-color: transparent;
+        border-top: 1px solid #18a4dd;
+        color: #18a4dd;
+    }
+
+.banner-container {
+    background: url("/themes/v1/images/bizweb_banner.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*background-size: 100%;*/
+    min-height: 228px;
+    padding-top: 25px;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: 400;
+    line-height: 1.1;
+}
+
+    .banner-container .lbl-text {
+        font-size: 42px;
+        color: inherit;
+        line-height: 1.3em;
+    }
+
+        .banner-container .lbl-text.large {
+            font-size: 60px;
+            /*margin-top: 33px;
+                margin-bottom: 0;*/
+        }
+
+        .banner-container .lbl-text.light {
+            font-weight: 300;
+        }
+
+        .banner-container .lbl-text.thin {
+            letter-spacing: 0.1em;
+            margin: 10px 0;
+            /*font-family: Roboto-Thin;*/
+        }
+
+.index-registration {
+    margin-top: 30px;
+}
+
+@media (max-width: 740px) {
+    .banner-container {
+        padding-top: 30px;
+    }
+
+        .banner-container .lbl-text.large {
+            font-size: 54px;
+            /*margin-top: 33px;
+                margin-bottom: 0;*/
+        }
+
+        .banner-container .lbl-text.light {
+            font-weight: 300;
+            font-size: 36px;
+        }
+}
+
+@media (max-width: 641px) {
+    .banner-container {
+        padding-top: 15px;
+    }
+
+        .banner-container .lbl-text.large {
+            font-size: 54px;
+            /*margin-top: 33px;
+                margin-bottom: 0;*/
+        }
+
+        .banner-container .lbl-text.light {
+            font-weight: 300;
+            font-size: 36px;
+        }
+}
+@media (max-width: 377px) {
+    .banner-container {
+        padding-top: 25px;
+    }
+
+        .banner-container .lbl-text.large {
+            font-size: 40px;
+            /*margin-top: 33px;
+                margin-bottom: 0;*/
+        }
+
+        .banner-container .lbl-text.light {
+            font-weight: 300;
+            font-size: 29px;
+        }
+}
