@@ -1,0 +1,2964 @@
+04/05/2015 08:36:58 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:36:58 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:39:10 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:39:10 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:41:11 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:41:11 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:41:22 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:41:22 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:41:51 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:41:51 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:42:36 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:42:36 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:42:52 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:42:52 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:43:43 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:43:43 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:44:05 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:44:05 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:44:14 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:44:14 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:46:44 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:46:44 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:47:28 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:47:28 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:48:21 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:48:21 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:48:42 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:48:42 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:50:23 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:50:23 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:50:31 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:50:31 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:50:40 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:50:40 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:51:35 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:51:35 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:53:08 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:53:08 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:53:30 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:53:30 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:53:34 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:53:34 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:53:44 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:53:44 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:55:03 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:55:03 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:56:10 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:56:10 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:56:55 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:56:55 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:57:16 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:57:16 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 08:57:46 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 08:57:46 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:02:30 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:02:30 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:02:35 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:02:35 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:02:48 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:02:48 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:06:09 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:06:09 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:07:31 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:07:31 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:07:48 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:07:48 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:07:55 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:07:55 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:08:58 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:08:58 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:09:22 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:09:22 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:09:44 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:09:44 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:09:55 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:09:55 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:10:03 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:10:03 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:11:19 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:11:19 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:11:34 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:11:34 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:12:29 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:12:29 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:12:57 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:12:57 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:13:20 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:13:20 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:14:18 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:14:18 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:14:21 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:14:21 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:15:45 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:15:45 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:16:07 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:16:07 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:16:17 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:16:17 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:16:25 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:16:25 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:16:55 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:16:55 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:18:23 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:18:23 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:18:32 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:18:32 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:18:55 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:18:55 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:19:21 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:19:21 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:19:32 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:19:32 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:20:32 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:20:32 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:20:50 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:20:50 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:21:14 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:21:14 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:21:27 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:21:27 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:23:05 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:23:05 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:26:04 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:26:04 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:26:30 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:26:30 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:26:56 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:26:56 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:26:58 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:26:58 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:27:08 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:27:08 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:27:19 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:27:19 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:28:17 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:28:17 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:28:31 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:28:31 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:28:53 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:28:53 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:29:50 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:29:50 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:30:13 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:30:13 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:30:40 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:30:40 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:35:25 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:35:25 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:35:59 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:35:59 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:37:10 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:37:10 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:41:18 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:41:18 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:41:26 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:41:26 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:44:03 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:44:03 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:45:54 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:45:54 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:46:31 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:46:31 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:46:43 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:46:43 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:47:08 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:47:08 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:47:30 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:47:30 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:48:45 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:48:45 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:48:53 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:48:53 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:48:56 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:48:56 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:49:28 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:49:28 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:49:56 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:49:56 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:50:28 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:50:28 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:50:34 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:50:34 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:50:37 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:50:37 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 09:59:46 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 09:59:46 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:00:09 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:00:09 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:00:18 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:00:18 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:00:20 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:00:20 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:00:58 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:00:58 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:00:59 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:00:59 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:01:52 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:01:52 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:02:32 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:02:32 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:02:57 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:02:57 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:08:24 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:08:24 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:13:10 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:13:10 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:14:04 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:14:04 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:17:19 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:17:19 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:17:40 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:17:40 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:17:45 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:17:45 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:17:50 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:17:50 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:17:59 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:17:59 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:18:10 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:18:10 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:18:12 AM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:18:12 AM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:18:15 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:18:15 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:18:58 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:18:58 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:19:20 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:19:20 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:19:30 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:19:30 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:19:32 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:19:32 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:19:34 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:19:34 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:20:57 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:20:57 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:21:05 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:21:05 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:21:37 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:21:37 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:21:41 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:21:41 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:27:19 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:27:19 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:27:35 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:27:35 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:27:40 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:27:40 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:43:13 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:43:13 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:43:23 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:43:23 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:43:24 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:43:24 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:43:33 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:43:33 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:43:42 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:43:42 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:43:47 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:43:47 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:43:48 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:43:48 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:55:59 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:55:59 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:56:10 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:56:10 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:56:39 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:56:39 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:56:43 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:56:43 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 10:56:59 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 10:56:59 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 11:23:33 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 11:23:33 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 11:29:29 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 11:29:29 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 11:29:49 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 11:29:49 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 11:29:49 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 11:29:49 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 11:30:03 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 11:30:03 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 12:10:32 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 12:10:32 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 12:10:34 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 12:10:34 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 12:10:35 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 12:10:35 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:51:34 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:51:34 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:51:48 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:51:48 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:51:52 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:51:52 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:52:50 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:52:50 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:53:13 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:53:13 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:54:32 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:54:32 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:54:53 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:54:53 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:55:19 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:55:19 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:55:44 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:55:44 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:55:54 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:55:54 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:55:56 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:55:56 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:56:13 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:56:13 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:57:04 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:57:04 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:57:08 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:57:08 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:57:49 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:57:49 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:57:56 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:57:56 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:57:59 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:57:59 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:58:05 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:58:05 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:58:33 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:58:33 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:59:00 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:59:00 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:59:21 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:59:21 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 01:59:46 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 01:59:46 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:00:08 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:00:08 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:05:25 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:05:25 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:05:33 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:05:33 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:05:43 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:05:43 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:05:45 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:05:45 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:06:00 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:06:00 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:06:28 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:06:28 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:07:04 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:07:04 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:07:14 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:07:14 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:09:47 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:09:47 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:13:33 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:13:33 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:13:39 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:13:39 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:15:03 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:15:03 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:15:36 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:15:37 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:15:45 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:15:45 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:16:23 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:16:23 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:21:00 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:21:00 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:21:52 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:21:52 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:22:16 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:22:16 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:23:26 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:23:26 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:24:22 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:24:22 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:24:32 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:24:32 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:24:57 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:24:57 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:25:13 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:25:13 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:25:50 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:25:50 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 02:25:55 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 02:25:55 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 04:24:03 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 04:24:03 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 04:24:13 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 04:24:13 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 04:24:14 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 04:24:14 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 04:24:25 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 04:24:25 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:14:49 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:14:49 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:17:14 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:17:14 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:19:00 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:19:00 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:19:42 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:19:42 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:19:46 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:19:46 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:21:11 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:21:11 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:21:50 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:21:50 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:22:06 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:22:06 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:22:14 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:22:14 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:22:29 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:22:29 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:23:35 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:23:35 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:24:24 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:24:24 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:34:29 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:34:29 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:34:37 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:34:37 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+04/05/2015 05:34:40 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+04/05/2015 05:34:40 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:19:29 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:19:29 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:37:27 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:37:27 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:38:26 AM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:38:26 AM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:38:27 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:38:27 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:48:13 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:48:13 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:48:42 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:48:42 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:49:13 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:49:13 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:49:45 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:49:45 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:50:06 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:50:06 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:50:23 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:50:23 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:51:13 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:51:13 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:51:26 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:51:26 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:52:06 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:52:06 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:52:37 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:52:37 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:53:02 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:53:02 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:53:12 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:53:12 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:53:43 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:53:43 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:53:53 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:53:53 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:54:09 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:54:09 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:54:23 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:54:23 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:57:02 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:57:02 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:57:49 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:57:49 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:58:20 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:58:20 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 08:59:23 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 08:59:23 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:00:06 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:00:06 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:00:24 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:00:24 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:00:58 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:00:58 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:01:48 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:01:48 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:01:59 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:01:59 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:20:42 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:20:42 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:24:39 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:24:39 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:25:06 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:25:06 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:25:54 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:25:54 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:30:45 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:30:45 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:31:49 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:31:49 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:32:10 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:32:10 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:32:27 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:32:27 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:34:10 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:34:10 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:34:16 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:34:16 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:34:49 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:34:49 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:34:56 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:34:56 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:35:26 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:35:26 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:35:56 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:35:56 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:36:03 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:36:03 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:36:45 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:36:45 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:36:58 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:36:58 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:47:36 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:47:36 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:48:18 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:48:18 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:48:49 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:48:49 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:49:00 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:49:00 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:49:26 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:49:26 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:49:55 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:49:55 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:50:03 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:50:03 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:50:12 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:50:12 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:50:15 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:50:15 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:50:21 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:50:21 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:50:54 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:50:54 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:51:01 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:51:01 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:51:12 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:51:12 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:51:45 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:51:45 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:52:26 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:52:26 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:52:54 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:52:54 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:53:03 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:53:03 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:53:53 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:53:53 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:53:59 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:53:59 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:54:27 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:54:27 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:55:50 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:55:50 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:56:39 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:56:39 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:57:06 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:57:06 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 09:59:42 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 09:59:42 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:01:10 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:01:10 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:01:30 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:01:30 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:01:45 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:01:45 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:01:52 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:01:52 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:01:53 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:01:53 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:01:55 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:01:55 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:03:15 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:03:15 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:03:29 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:03:29 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:07:11 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:07:11 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:07:38 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:07:38 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:08:50 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:08:50 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:09:01 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:09:01 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:09:48 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:09:48 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:09:53 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:09:53 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:10:34 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:10:34 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:10:38 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:10:38 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:11:25 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:11:25 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:13:12 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:13:12 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:13:28 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:13:28 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:38:06 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:38:06 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:44:40 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:44:40 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:54:41 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:54:41 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 10:54:57 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 10:54:57 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 11:05:20 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 11:05:20 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 01:42:01 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 01:42:01 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 01:42:26 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 01:42:26 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 01:42:37 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 01:42:37 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 01:43:02 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 01:43:02 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 01:43:35 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 01:43:35 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 01:44:48 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 01:44:48 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 01:44:56 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 01:44:56 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 01:45:40 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 01:45:40 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 01:46:01 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 01:46:01 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 02:32:34 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 02:32:34 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 02:32:38 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 02:32:38 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/05/2015 02:32:46 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+05/05/2015 02:32:46 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 10:20:09 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 10:20:09 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 10:20:20 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 10:20:20 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 10:35:57 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 10:35:57 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 10:37:10 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 10:37:10 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 11:00:47 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 11:00:47 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 01:58:57 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 01:58:57 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 01:59:08 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 01:59:08 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 01:59:12 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 01:59:12 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 01:59:30 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 01:59:30 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 01:59:42 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 01:59:42 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:23:22 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:23:22 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:23:56 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:23:56 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:29:15 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:29:15 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:29:48 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:29:48 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:29:58 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:29:58 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:31:00 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:31:00 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:31:26 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:31:26 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:31:45 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:31:45 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:32:50 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:32:50 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:33:26 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:33:26 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:33:43 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:33:43 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:36:28 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:36:28 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:37:12 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:37:12 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:38:17 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:38:17 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:39:02 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:39:02 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:39:17 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:39:17 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:39:58 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:39:58 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:40:31 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:40:31 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:42:41 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:42:41 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:42:54 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:42:54 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:43:22 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:43:22 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:45:15 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:45:15 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:49:06 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:49:06 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 02:55:20 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 02:55:20 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:01:15 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:01:15 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:01:46 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:01:46 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:01:55 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:01:55 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:02:35 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:02:35 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:02:55 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:02:55 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:03:12 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:03:12 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:03:28 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:03:28 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:30:02 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:30:02 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:30:03 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:30:04 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:49:16 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:49:16 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:57:51 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:57:51 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 03:59:56 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 03:59:56 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:01:02 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:01:02 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:03:17 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:03:17 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:03:27 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:03:27 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:04:18 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:04:18 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:05:56 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:05:56 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:06:17 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:06:17 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:06:44 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:06:44 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:08:38 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:08:38 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:08:51 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:08:51 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:18:35 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:18:35 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 04:29:50 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 04:29:50 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+06/05/2015 05:29:28 PM /home/detail.php?type=news&module=list
+ 
+ SELECT * from configuration WHERE lang_id = 1
+06/05/2015 05:29:28 PM /home/detail.php?type=news&module=list
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 08:18:19 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 08:18:19 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 08:41:39 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 08:41:39 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:08:39 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:08:39 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:09:38 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:09:38 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:10:11 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:10:11 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:15:11 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:15:11 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:15:19 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:15:19 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:15:20 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:15:20 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:15:22 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:15:22 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:15:27 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:15:27 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:15:37 PM /home/detail.php?type=news&module=list
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:15:37 PM /home/detail.php?type=news&module=list
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:15:40 PM /home/detail.php?type=news&module=detail
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:15:40 PM /home/detail.php?type=news&module=detail
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:16:02 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:16:02 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 02:23:17 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 02:23:17 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 04:38:54 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 04:38:54 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 05:18:54 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 05:18:54 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 05:28:04 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 05:28:04 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 07:42:10 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 07:42:10 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 08:30:36 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 08:30:36 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 08:30:48 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 08:30:48 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+07/05/2015 08:51:33 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+07/05/2015 08:51:33 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 08:33:09 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 08:33:09 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 08:40:17 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 08:40:17 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 09:01:50 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 09:01:50 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 09:03:05 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 09:03:05 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 09:49:56 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 09:49:56 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 10:32:52 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 10:32:52 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 02:20:08 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 02:20:08 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 03:54:44 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 03:54:44 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 03:54:44 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 03:54:44 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 03:56:52 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 03:56:52 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 03:58:46 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 03:58:46 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:02:09 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:02:09 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:03:52 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:03:52 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:06:47 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:06:47 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:07:22 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:07:22 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:07:53 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:07:53 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:08:06 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:08:06 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:09:16 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:09:16 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:14:16 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:14:16 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:15:27 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:15:27 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:16:53 PM /khoa-hoc-offline.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:16:53 PM /khoa-hoc-offline.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:17:04 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:17:04 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:19:20 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:19:20 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 04:19:24 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 04:19:24 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+08/05/2015 07:43:14 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+08/05/2015 07:43:14 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+11/05/2015 09:43:52 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+11/05/2015 09:43:52 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+11/05/2015 09:44:08 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+11/05/2015 09:44:08 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+11/05/2015 10:17:06 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+11/05/2015 10:17:06 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+11/05/2015 10:17:17 AM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+11/05/2015 10:17:17 AM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+11/05/2015 10:30:17 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+11/05/2015 10:30:17 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+11/05/2015 11:54:59 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+11/05/2015 11:54:59 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+11/05/2015 01:39:43 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+11/05/2015 01:39:43 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:17:24 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:17:24 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:17:32 AM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:17:32 AM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:17:33 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:17:33 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:23:16 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:23:16 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:26:13 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:26:13 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:29:06 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:29:06 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:29:11 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:29:11 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:29:12 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:29:12 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:33:11 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:33:11 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:34:08 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:34:08 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:36:16 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:36:16 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:36:19 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:36:19 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:36:20 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:36:20 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:36:20 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:36:20 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:36:21 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:36:21 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:36:21 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:36:21 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:37:20 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:37:20 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:38:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:38:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:43:07 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:43:07 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:45:07 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:45:07 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:46:27 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:46:27 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:46:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:46:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:47:41 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:47:41 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:48:45 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:48:45 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:52:27 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:52:27 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:53:55 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:53:55 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:54:49 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:54:49 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:55:08 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:55:08 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:56:07 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:56:07 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:56:26 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:56:26 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 08:57:52 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 08:57:52 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 09:01:51 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 09:01:51 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:09:25 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:09:25 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:09:42 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:09:42 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:10:39 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:10:39 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:11:27 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:11:27 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:12:30 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:12:30 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:23:14 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:23:14 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:28:50 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:28:50 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:31:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:31:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:32:31 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:32:31 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:33:14 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:33:14 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:33:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:33:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:34:12 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:34:12 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:34:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:34:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:35:33 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:35:33 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:35:45 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:35:45 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:38:32 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:38:32 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:38:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:38:47 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:39:19 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:39:19 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:39:44 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:39:44 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:40:14 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:40:14 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:40:25 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:40:25 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:41:25 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:41:25 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:41:42 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:41:42 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:42:10 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:42:10 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:42:36 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:42:36 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:45:10 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:45:10 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 10:45:43 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 10:45:43 AM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 01:05:54 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 01:05:54 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 01:57:15 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 01:57:15 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 02:04:25 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 02:04:25 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 02:10:55 PM /khoa-hoc-online.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 02:10:55 PM /khoa-hoc-online.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 02:18:40 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 02:18:40 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 02:18:41 PM /
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 02:18:41 PM /
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/05/2015 02:20:38 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT * from configuration WHERE lang_id = 1
+12/05/2015 02:20:38 PM /cau-chuyen-thanh-cong.html
+ 
+ SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1

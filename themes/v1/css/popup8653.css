@@ -1,0 +1,144 @@
+﻿.fancybox-opened .fancybox-skin { box-shadow: none; }
+
+.fancybox-skin-reg { background: transparent; }
+
+.fancybox-close-reg { right: 52px; top: 0; }
+.fancybox-close-reg-web { background-image: url('../Images/popup/bt_close.png'); width: 37px; height: 36px; }
+
+#registrationName { width: 1000px; height: 255px; background-color: #FFF; }
+#registrationName .tbox { background-color: #FFFFFF; border: 1px solid #C8C8C8; height: 50px; left: 15px; position: absolute; top: 17px; width: 645px; }
+#registrationName input[type='text'] { border: 1px solid rgba(0, 0, 0, 0); color: #747474; font-family: Arial; font-size: 16px; padding: 13px 11px; width: 620px; }
+#registrationName .dangky-dungthu { position: absolute; right: 14px; top: 17px; }
+
+#remoteLogin { width: 980px; height: 180px; background-color: #FFF; }
+#remoteLogin .tbox { background-color: #FFFFFF; border: 1px solid #C8C8C8; height: 50px; position: absolute; top: 10px; }
+#remoteLogin .address { left: 10px; width: 327px; }
+#remoteLogin .username { left: 345px; width: 242px; }
+#remoteLogin .password { left: 595px; width: 210px; }
+#remoteLogin input[type='text'],
+#remoteLogin input[type='password'] { border: 1px solid rgba(0, 0, 0, 0); color: #747474; font-family: Arial; font-size: 16px; padding: 13px 11px; }
+#remoteLogin .login-button { position: absolute; top: 10px; right: 11px; }
+
+.fancybox-skin-regname, .fancybox-skin-affiliate, .fancybox-skin-webmaster, .fancybox-skin-request, .fancybox-skin-agent { background: none; }
+
+.fancybox-close-regname { background-image: url('../Images/popup/bt_close_2.png'); }
+.fancybox-close-regname { width: 38px; height: 38px; right: -5px; top: -2px; }
+
+.fancybox-close-affiliate { right: -5px; top: 2px; }
+.fancybox-close-affiliate-web { background-image: url('../Images/agent/close-popup-collaborator.png'); width: 38px; height: 38px; }
+
+.fancybox-close-webmaster { right: 10px; top: -5px; }
+.fancybox-close-webmaster-web { background-image: url('../Images/agent/close-popup-webmaster.png'); width: 38px; height: 38px; }
+
+.fancybox-close-request { right: -5px; top: 3px; }
+.fancybox-close-request-web { background-image: url('../Images/popup/bt_close_2.png'); width: 38px; height: 38px; }
+
+.fancybox-close-requestres { right: -5px; top: 117px; }
+.fancybox-close-requestres-web { background-image: url('../Images/popup/bt_close_2.png'); width: 38px; height: 38px; }
+
+.fancybox-close-agent { right: -4px; top: -3px; }
+.fancybox-close-agent-web { background-image: url('../Images/agent/close-popup-agent.png'); width: 38px; height: 38px; }
+
+.consulting-request {
+    background-color: transparent;
+    width: 390px;
+    height: 449px;
+    position: relative;
+}
+.consulting-request .na {
+    position: absolute;
+    width: 254px;
+    height: 449px;
+    background: url('../Images/popup/na.png') no-repeat center top transparent;
+    left: 0;
+    top: 0;
+}
+.consulting-request .form {
+    background-color: #FFF;
+    position: absolute;
+    width: 390px;
+    height: 442px;
+    right: 0;
+    bottom: 0;
+}
+.consulting-request h3 {
+    font-size: 30px;
+    color: #2294d2;
+    margin: 10px 0 0;
+    padding: 0 0 0 70px;
+}
+.consulting-request .label {
+    width: 86px;
+    color: #262626;
+}
+.consulting-request .value {
+    width: 234px;
+    color: #262626;
+}
+.consulting-request input[type='text'], .consulting-request textarea {
+    font-family: Arial;
+    font-size: 14px;
+    color: #262626;
+    border: solid 1px #d0d0d0;
+    padding: 5px 2px;
+}
+.consulting-request input[type='submit'] {
+    border: none;
+    background-image: url('../Images/popup/submit.png');
+    cursor: pointer;
+    width: 59px;
+    height: 28px;
+}
+.consulting-request-result {
+    background-color: transparent;
+    width: 757px;
+    height: 449px;
+    position: relative;
+}
+.consulting-request-result .na {
+    position: absolute;
+    width: 254px;
+    height: 449px;
+    background: url('../Images/popup/na.png') no-repeat center top transparent;
+    left: 0;
+    top: 0;
+}
+.consulting-request-result .form {
+    background-color: #3e9dd6;
+    position: absolute;
+    width: 570px;
+    height: 329px;
+    right: 0;
+    bottom: 0;
+    color: #FFF;
+}
+.consulting-request-result h3 {
+    margin: 86px 0 0;
+    padding: 0 0 0 87px;
+    font-size: 48px;
+    font-weight: normal;
+}
+.consulting-request-result p {
+    padding: 0 0 8px 90px;
+}
+
+#loginForCreateSiteContainer { width: 680px; height: 180px; background-color: #FFF; }
+#loginForCreateSiteContainer .tbox { background-color: #FFFFFF; border: 1px solid #C8C8C8; height: 50px; position: absolute; top: 10px; }
+#loginForCreateSiteContainer .username { left: 15px; width: 242px; }
+#loginForCreateSiteContainer .password { left: 265px; width: 210px; }
+#loginForCreateSiteContainer input[type='text'],
+#loginForCreateSiteContainer input[type='password'] { border: 1px solid rgba(0, 0, 0, 0); color: #747474; font-family: Arial; font-size: 16px; padding: 13px 11px; }
+#loginForCreateSiteContainer a { 
+    position: absolute; 
+    top: 10px; 
+    right: 20px; 
+    background-color: #2194d2;
+    color: #FFF;
+    text-decoration: none;
+    padding: 12px 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#loginForCreateSiteContainer a:hover {
+    text-decoration: none;
+}

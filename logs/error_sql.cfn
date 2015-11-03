@@ -1,0 +1,2077 @@
+14/05/2015 08:26:38 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:39 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:40 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:40 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:41 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:44 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:45 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:46 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:54 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:55 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:26:56 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:27:00 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:27:01 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:27:01 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:27:02 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:27:02 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:27:11 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:27:37 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:27:39 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:27:41 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+14/05/2015 08:28:56 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:57 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:57 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:57 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:57 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:57 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:57 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:58 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:58 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:58 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:58 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:58 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:58 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 08:28:59 AM /
+No database selected
+SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+14/05/2015 09:49:35 AM /khoa-hoc-online.html
+Unknown column 'new_category_id' in 'field list'
+SELECT count(*) AS count,new_category_id
+										  FROM 	categories_multi
+										  WHERE  new_active = 1
+										  GROUP BY new_category_id
+										  
+19/05/2015 10:58:11 AM /ajax_v1/ajax_online_content.php
+Unknown column '570cat_all' in 'where clause'
+SELECT * 
+											FROM categories_multi 
+											WHERE cat_active = 1
+											AND cat_type='hoconline'
+                                            
+											AND cat_parent_id IN (570cat_all=568,566)
+											LIMIT 0,15
+20/05/2015 08:19:36 AM /ajax_v1/ajax_online_content.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+											LIMIT 0,15' at line 6
+SELECT * 
+											FROM categories_multi 
+											WHERE cat_active = 1
+											AND cat_type='hoconline'
+                                            
+											AND cat_parent_id IN ()
+											LIMIT 0,15
+20/05/2015 08:19:38 AM /ajax_v1/ajax_online_content.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+											LIMIT 0,15' at line 6
+SELECT * 
+											FROM categories_multi 
+											WHERE cat_active = 1
+											AND cat_type='hoconline'
+                                            
+											AND cat_parent_id IN ()
+											LIMIT 0,15
+20/05/2015 08:19:53 AM /ajax_v1/ajax_online_content.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+											LIMIT 0,15' at line 6
+SELECT * 
+											FROM categories_multi 
+											WHERE cat_active = 1
+											AND cat_type='hoconline'
+                                            
+											AND cat_parent_id IN ()
+											LIMIT 0,15
+20/05/2015 08:19:54 AM /ajax_v1/ajax_online_content.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+											LIMIT 0,15' at line 6
+SELECT * 
+											FROM categories_multi 
+											WHERE cat_active = 1
+											AND cat_type='hoconline'
+                                            
+											AND cat_parent_id IN ()
+											LIMIT 0,15
+20/05/2015 08:19:54 AM /ajax_v1/ajax_online_content.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+											LIMIT 0,15' at line 6
+SELECT * 
+											FROM categories_multi 
+											WHERE cat_active = 1
+											AND cat_type='hoconline'
+                                            
+											AND cat_parent_id IN ()
+											LIMIT 0,15
+20/05/2015 08:19:55 AM /ajax_v1/ajax_online_content.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+											LIMIT 0,15' at line 6
+SELECT * 
+											FROM categories_multi 
+											WHERE cat_active = 1
+											AND cat_type='hoconline'
+                                            
+											AND cat_parent_id IN ()
+											LIMIT 0,15
+20/05/2015 08:50:30 AM /ajax_v1/ajax_online_content.php
+Unknown column '570cat_all' in 'where clause'
+SELECT * 
+											FROM categories_multi 
+											WHERE cat_active = 1
+											AND cat_type='hoconline'
+											AND cat_parent_id IN (570cat_all=568,566)
+											LIMIT 0,15
+20/05/2015 08:51:50 AM /ajax_v1/ajax_online_content.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';cat_all=568,566)
+											LIMIT 0,15' at line 5
+SELECT * 
+											FROM categories_multi 
+											WHERE cat_active = 1
+											AND cat_type='hoconline'
+											AND cat_parent_id IN (570;cat_all=568,566)
+											LIMIT 0,15
+20/05/2015 10:14:24 AM /khoa-hoc-i571/
+Unknown column 'cat_parent_id' in 'where clause'
+SELECT count(*) as count FROM news WHERE cat_parent_id =571
+20/05/2015 02:18:35 PM /khoa-hoc-i571/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FORM categories_multi 
+                                                WHERE ca' at line 2
+SELECT * 
+                                                FORM categories_multi 
+                                                WHERE cat_active = 1 
+                                                AND cat_id <571 
+                                                ORDER BY cat_id DESC 
+                                                LIMIT 3
+20/05/2015 04:30:39 PM /
+Unknown column 'cat_title' in 'field list'
+SELECT cat_id, cat_title, cat_title_rewrite, cat_picture, cat_description
+                                        FROM categories_multi
+                                        WHERE cat_active = 1
+                                        ORDER BY cat_id DESC 
+                                        LIMIT 3
+20/05/2015 04:30:46 PM /
+Unknown column 'cat_title_rewrite' in 'field list'
+SELECT cat_id, cat_name, cat_title_rewrite, cat_picture, cat_description
+                                        FROM categories_multi
+                                        WHERE cat_active = 1
+                                        ORDER BY cat_id DESC 
+                                        LIMIT 3
+20/05/2015 04:30:47 PM /
+Unknown column 'cat_title_rewrite' in 'field list'
+SELECT cat_id, cat_name, cat_title_rewrite, cat_picture, cat_description
+                                        FROM categories_multi
+                                        WHERE cat_active = 1
+                                        ORDER BY cat_id DESC 
+                                        LIMIT 3
+20/05/2015 04:30:47 PM /
+Unknown column 'cat_title_rewrite' in 'field list'
+SELECT cat_id, cat_name, cat_title_rewrite, cat_picture, cat_description
+                                        FROM categories_multi
+                                        WHERE cat_active = 1
+                                        ORDER BY cat_id DESC 
+                                        LIMIT 3
+20/05/2015 04:30:47 PM /
+Unknown column 'cat_title_rewrite' in 'field list'
+SELECT cat_id, cat_name, cat_title_rewrite, cat_picture, cat_description
+                                        FROM categories_multi
+                                        WHERE cat_active = 1
+                                        ORDER BY cat_id DESC 
+                                        LIMIT 3
+20/05/2015 04:30:47 PM /
+Unknown column 'cat_title_rewrite' in 'field list'
+SELECT cat_id, cat_name, cat_title_rewrite, cat_picture, cat_description
+                                        FROM categories_multi
+                                        WHERE cat_active = 1
+                                        ORDER BY cat_id DESC 
+                                        LIMIT 3
+20/05/2015 04:30:48 PM /
+Unknown column 'cat_title_rewrite' in 'field list'
+SELECT cat_id, cat_name, cat_title_rewrite, cat_picture, cat_description
+                                        FROM categories_multi
+                                        WHERE cat_active = 1
+                                        ORDER BY cat_id DESC 
+                                        LIMIT 3
+20/05/2015 04:30:48 PM /
+Unknown column 'cat_title_rewrite' in 'field list'
+SELECT cat_id, cat_name, cat_title_rewrite, cat_picture, cat_description
+                                        FROM categories_multi
+                                        WHERE cat_active = 1
+                                        ORDER BY cat_id DESC 
+                                        LIMIT 3
+20/05/2015 04:46:41 PM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, cat_order ASC, cat_name ASC FROM categories_multi WHERE cat_active = 1 ,cat' at line 1
+SELECT cat_id,cat_parent_id, cat_type ASC, cat_order ASC, cat_name ASC FROM categories_multi WHERE cat_active = 1 ,cat_id, cat_name, cat_name_rewrite, cat_parent_id ORDER BY cat_parent_id ASC,cat_has_child
+20/05/2015 04:46:42 PM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, cat_order ASC, cat_name ASC FROM categories_multi WHERE cat_active = 1 ,cat' at line 1
+SELECT cat_id,cat_parent_id, cat_type ASC, cat_order ASC, cat_name ASC FROM categories_multi WHERE cat_active = 1 ,cat_id, cat_name, cat_name_rewrite, cat_parent_id ORDER BY cat_parent_id ASC,cat_has_child
+20/05/2015 04:46:42 PM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, cat_order ASC, cat_name ASC FROM categories_multi WHERE cat_active = 1 ,cat' at line 1
+SELECT cat_id,cat_parent_id, cat_type ASC, cat_order ASC, cat_name ASC FROM categories_multi WHERE cat_active = 1 ,cat_id, cat_name, cat_name_rewrite, cat_parent_id ORDER BY cat_parent_id ASC,cat_has_child
+20/05/2015 04:47:10 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:10 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:10 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:10 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:11 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:11 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:23 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:23 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:23 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:23 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:47:24 PM /
+Unknown column '1hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:48:28 PM /
+Unknown column 'hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1 AND cat_type = hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:48:28 PM /
+Unknown column 'hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1 AND cat_type = hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:48:28 PM /
+Unknown column 'hoconline' in 'where clause'
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1 AND cat_type = hoconline ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 04:59:35 PM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC' at line 1
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1 AND cat_type =hoconline' ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+20/05/2015 05:01:22 PM /
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cat_description =' at line 1
+UPDATE categories_multi SET cat_parent_id = 0 WHERE cat_id,cat_description = 
+20/05/2015 05:01:22 PM /
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cat_description =' at line 1
+UPDATE categories_multi SET cat_parent_id = 0 WHERE cat_id,cat_description = 
+20/05/2015 05:03:25 PM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC' at line 1
+SELECT cat_id,cat_parent_id, cat_id, cat_name, cat_description, cat_name_rewrite, cat_parent_id FROM categories_multi WHERE cat_active = 1 AND cat_type =hoconline' ORDER BY cat_parent_id ASC,cat_type ASC, cat_order ASC, cat_name ASC
+22/05/2015 10:04:54 AM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '\
+                                       WHERE mnu_active = 1
+                ' at line 1
+SELECT * FROM menu_multi\
+                                       WHERE mnu_active = 1
+                                       AND mnu_type = 5
+                                       LIMIT 3
+22/05/2015 10:30:41 AM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '\
+                                       WHERE mnu_active = 1
+                ' at line 1
+SELECT * FROM menu_multi\
+                                       WHERE mnu_active = 1
+                                       AND mnu_type = 5
+                                       LIMIT 3
+22/05/2015 10:30:53 AM /
+Table 'vnp_university.menu_multi' doesn't exist
+SELECT * FROM menu_multi
+                                       WHERE mnu_active = 1
+                                       AND mnu_type = 5
+                                       LIMIT 3
+23/06/2015 08:27:13 AM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+SELECT 
+23/06/2015 08:45:31 AM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FORM menus_multi 
+                                 WHERE mnu_type = 1 
+       ' at line 2
+SELECT * 
+                                 FORM menus_multi 
+                                 WHERE mnu_type = 1 
+                                 LIMIT 3
+23/06/2015 10:47:58 AM /
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMT 4' at line 4
+SELECT * 
+                                 FROM news 
+                                 ORDER BY new_id DESC 
+                                 LIMT 4
+24/06/2015 02:18:46 AM /admin/modules/question_answer/listing.php
+Table 'vnp_university.answer' doesn't exist
+SELECT * FROM answer WHERE ans_que_id IN (469, 468, 467, 466, 465, 464, 463, 462, 461, 460, 459, 458, 457, 456, 455, 454, 453, 452, 451, 450, 449, 448, 447, 446, 445, 444, 443, 442, 441, 440)
+24/06/2015 02:21:09 AM /admin/modules/question_answer/listing.php
+Table 'vnp_university.answer' doesn't exist
+SELECT * FROM answer WHERE ans_que_id IN (469, 468, 467, 466, 465, 464, 463, 462, 461, 460, 459, 458, 457, 456, 455, 454, 453, 452, 451, 450, 449, 448, 447, 446, 445, 444, 443, 442, 441, 440)
+24/06/2015 02:21:25 AM /admin/modules/question_answer/listing_example.php
+Table 'vnp_university.question_example' doesn't exist
+SELECT 	count(*) AS count 
+										 FROM question_example
+										 WHERE 1 
+24/06/2015 02:27:18 AM /admin/modules/question_answer/add_example.php
+Table 'vnp_university.question_example' doesn't exist
+SHOW FIELDS FROM question_example
+24/06/2015 02:30:01 AM /admin/modules/question_answer/listing_example.php
+Table 'vnp_university.question_example' doesn't exist
+SELECT 	count(*) AS count 
+										 FROM question_example
+										 WHERE 1 
+24/06/2015 02:30:03 AM /admin/modules/question_answer/add_example.php
+Table 'vnp_university.question_example' doesn't exist
+SHOW FIELDS FROM question_example
+24/06/2015 02:30:04 AM /admin/modules/question_answer/add_example.php
+Table 'vnp_university.question_example' doesn't exist
+SHOW FIELDS FROM question_example
+24/06/2015 02:30:04 AM /admin/modules/question_answer/listing_example.php
+Table 'vnp_university.question_example' doesn't exist
+SELECT 	count(*) AS count 
+										 FROM question_example
+										 WHERE 1 
+26/06/2015 09:39:15 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:44:16 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:44:19 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:48:07 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:52:00 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:08 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:16 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:20 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:20 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:21 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:21 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:21 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:22 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:25 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:26 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:26 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:27 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:53:42 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:54:25 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:54:27 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:54:27 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:55:03 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:59:05 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:59:06 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:59:06 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:59:07 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:59:07 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 09:59:07 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 10:05:55 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+26/06/2015 10:40:14 AM /ajax_v1/ajax_load_test.php
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE users SET use_done = 1 WHERE use_id =
+02/07/2015 10:51:39 AM /test/
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:51:40 AM /test/
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:51:40 AM /test/
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:51:41 AM /test/
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:51:42 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:51:42 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:51:43 AM /thu-vien/
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:51:43 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:51:49 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:52:35 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:57:03 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:57:48 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:57:52 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 10:58:30 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 11:03:15 AM /
+No database selected
+SELECT * from configuration WHERE lang_id = 1
+02/07/2015 09:17:45 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:46 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:46 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:47 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:47 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:47 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:47 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:47 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:48 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:48 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:48 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:48 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:48 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:49 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:49 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:49 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:49 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:49 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:50 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:50 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:50 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:50 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:51 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:51 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:51 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:51 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:51 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 09:17:52 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+02/07/2015 03:35:55 PM /test/
+Unknown column 'que_question' in 'field list'
+SELECT que_id,  que_question, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:17 PM /test/
+Unknown column 'que_time' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:18 PM /test/
+Unknown column 'que_time' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:19 PM /test/
+Unknown column 'que_time' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:19 PM /test/
+Unknown column 'que_time' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:19 PM /test/
+Unknown column 'que_time' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:19 PM /test/
+Unknown column 'que_time' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:20 PM /test/
+Unknown column 'que_time' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:20 PM /test/
+Unknown column 'que_time' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:52 PM /test/
+Unknown column 'que_correct' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:53 PM /test/
+Unknown column 'que_correct' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:53 PM /test/
+Unknown column 'que_correct' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:54 PM /test/
+Unknown column 'que_correct' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:36:54 PM /test/
+Unknown column 'que_correct' in 'field list'
+SELECT que_id, que_name, que_time,que_correct,queg_name 
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:41:15 PM /test/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_que' at line 2
+SELECT que_id, que_name, que_time,
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:41:16 PM /test/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_que' at line 2
+SELECT que_id, que_name, que_time,
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:41:17 PM /test/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_que' at line 2
+SELECT que_id, que_name, que_time,
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:41:17 PM /test/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_que' at line 2
+SELECT que_id, que_name, que_time,
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_queg_id = 1 AND que_active = 1
+LIMIT 0,12
+02/07/2015 03:42:14 PM /test/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_act' at line 2
+SELECT que_id, que_name, que_time,
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_active = 1
+LIMIT 0,12
+02/07/2015 03:42:15 PM /test/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_act' at line 2
+SELECT que_id, que_name, que_time,
+FROM question INNER JOIN question_group ON(que_queg_id = queg_id)
+WHERE que_active = 1
+LIMIT 0,12
+03/07/2015 07:57:40 AM /act/
+Unknown column 'que_correct' in 'field list'
+SELECT que_correct, que_time 
+                        FROM question
+                        WHERE que_queg_id = 1 AND que_active = 1
+                        LIMIT 0,12
+03/07/2015 07:58:37 AM /act/
+Unknown column 'que_correct' in 'field list'
+SELECT que_correct, que_time 
+                        FROM question
+                        WHERE que_queg_id = 1 AND que_active = 1
+                        LIMIT 0,12
+03/07/2015 08:03:19 AM /act/
+Unknown column 'que_correct' in 'field list'
+SELECT que_correct, que_time 
+                        FROM question
+                        WHERE que_queg_id = 1 AND que_active = 1
+                        LIMIT 0,12
+03/07/2015 08:03:22 AM /act/
+Unknown column 'que_correct' in 'field list'
+SELECT que_correct, que_time 
+                        FROM question
+                        WHERE que_queg_id = 1 AND que_active = 1
+                        LIMIT 0,12
+03/07/2015 08:03:24 AM /act/
+Unknown column 'que_correct' in 'field list'
+SELECT que_correct, que_time 
+                        FROM question
+                        WHERE que_queg_id = 1 AND que_active = 1
+                        LIMIT 0,12
+03/07/2015 08:03:26 AM /act/
+Unknown column 'que_correct' in 'field list'
+SELECT que_correct, que_time 
+                        FROM question
+                        WHERE que_queg_id = 1 AND que_active = 1
+                        LIMIT 0,12
+03/07/2015 08:03:28 AM /act/
+Unknown column 'que_correct' in 'field list'
+SELECT que_correct, que_time 
+                        FROM question
+                        WHERE que_queg_id = 1 AND que_active = 1
+                        LIMIT 0,12
+03/07/2015 08:03:30 AM /act/
+Unknown column 'que_correct' in 'field list'
+SELECT que_correct, que_time 
+                        FROM question
+                        WHERE que_queg_id = 1 AND que_active = 1
+                        LIMIT 0,12
+03/07/2015 08:03:32 AM /act/
+Unknown column 'que_correct' in 'field list'
+SELECT que_correct, que_time 
+                        FROM question
+                        WHERE que_queg_id = 1 AND que_active = 1
+                        LIMIT 0,12
+04/07/2015 02:41:58 AM /admin/modules/review/listing.php?field=blog_active&checkbox=1&record_id=3&url=L2FkbWluL21vZHVsZXMvcmV2aWV3L2xpc3RpbmcucGhw&checkbox=1
+Unknown column 'blog_active' in 'field list'
+SELECT blog_active FROM review WHERE rev_id=3
+04/07/2015 08:44:45 AM /ajax_v1/ajax_load_test.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                           LIMIT 0,12' at line 4
+SELECT *
+                           FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                           WHERE que_active = 1 AND queg_id = 
+                           ORDER BY que_id DESC
+                           LIMIT 0,12
+05/07/2015 03:16:38 AM /admin/modules/room_multi/add.php
+Unknown column 'cat_name' in 'order clause'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,roo_order,roo_city,roo_parent_id,roo_has_child FROM room WHERE 1 AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_city, roo_order ASC, cat_name ASC
+05/07/2015 03:16:42 AM /admin/modules/room_multi/add.php
+Unknown column 'cat_name' in 'order clause'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,roo_order,roo_city,roo_parent_id,roo_has_child FROM room WHERE 1 AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_city, roo_order ASC, cat_name ASC
+05/07/2015 03:17:04 AM /admin/modules/room_multi/add.php
+Unknown column 'cat_name' in 'order clause'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,roo_order,roo_city,roo_parent_id,roo_has_child FROM room WHERE 1 AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_city, roo_order ASC, cat_name ASC
+05/07/2015 03:25:40 AM /admin/modules/room_multi/add.php?
+ Duplicate entry '0' for key 'PRIMARY'
+INSERT  INTO room(admin_id,roo_city,roo_name,roo_name_rewrite,roo_active,roo_order,roo_parent_id) VALUES (4,'hanoi','Phòng kinh doanh','phong-kinh-doanh',1,1,0)
+05/07/2015 03:26:00 AM /admin/modules/room_multi/add.php?record_id=0&iParent=0&roo_city=hanoi&cat_order=0
+ Duplicate entry '0' for key 'PRIMARY'
+INSERT  INTO room(admin_id,roo_city,roo_name,roo_name_rewrite,roo_active,roo_order,roo_parent_id) VALUES (4,'hanoi','Phòng kinh doanh','phong-kinh-doanh',1,1,0)
+05/07/2015 09:37:14 AM /admin/modules/users/listing.php
+Unknown column 'user_id' in 'order clause'
+SELECT * 
+										 FROM user_test
+										 WHERE 1 
+										 ORDER BY user_id DESC
+										 LIMIT 0,30
+05/07/2015 09:37:15 AM /admin/modules/users/listing.php
+Unknown column 'user_id' in 'order clause'
+SELECT * 
+										 FROM user_test
+										 WHERE 1 
+										 ORDER BY user_id DESC
+										 LIMIT 0,30
+05/07/2015 09:37:16 AM /admin/modules/users/listing.php
+Unknown column 'user_id' in 'order clause'
+SELECT * 
+										 FROM user_test
+										 WHERE 1 
+										 ORDER BY user_id DESC
+										 LIMIT 0,30
+05/07/2015 09:37:16 AM /admin/modules/users/listing.php
+Unknown column 'user_id' in 'order clause'
+SELECT * 
+										 FROM user_test
+										 WHERE 1 
+										 ORDER BY user_id DESC
+										 LIMIT 0,30
+05/07/2015 09:37:16 AM /admin/modules/users/listing.php
+Unknown column 'user_id' in 'order clause'
+SELECT * 
+										 FROM user_test
+										 WHERE 1 
+										 ORDER BY user_id DESC
+										 LIMIT 0,30
+05/07/2015 09:37:16 AM /admin/modules/users/listing.php
+Unknown column 'user_id' in 'order clause'
+SELECT * 
+										 FROM user_test
+										 WHERE 1 
+										 ORDER BY user_id DESC
+										 LIMIT 0,30
+05/07/2015 09:39:32 AM /admin/modules/users/listing.php
+Unknown column 'rom_id' in 'field list'
+SELECT rom_id,rom_parent_id, roo_id,roo_name,roo_city FROM room WHERE roo_city IN ("hanoi", "hochiminh") AND lang_id = 1 ORDER BY rom_parent_id ASC,roo_order ASC,roo_name ASC
+05/07/2015 09:39:33 AM /admin/modules/users/listing.php
+Unknown column 'rom_id' in 'field list'
+SELECT rom_id,rom_parent_id, roo_id,roo_name,roo_city FROM room WHERE roo_city IN ("hanoi", "hochiminh") AND lang_id = 1 ORDER BY rom_parent_id ASC,roo_order ASC,roo_name ASC
+05/07/2015 09:39:33 AM /admin/modules/users/listing.php
+Unknown column 'rom_id' in 'field list'
+SELECT rom_id,rom_parent_id, roo_id,roo_name,roo_city FROM room WHERE roo_city IN ("hanoi", "hochiminh") AND lang_id = 1 ORDER BY rom_parent_id ASC,roo_order ASC,roo_name ASC
+05/07/2015 09:39:33 AM /admin/modules/users/listing.php
+Unknown column 'rom_id' in 'field list'
+SELECT rom_id,rom_parent_id, roo_id,roo_name,roo_city FROM room WHERE roo_city IN ("hanoi", "hochiminh") AND lang_id = 1 ORDER BY rom_parent_id ASC,roo_order ASC,roo_name ASC
+06/07/2015 06:13:03 PM /admin/modules/review/delete.php
+Unknown column 'blog_id' in 'where clause'
+DELETE FROM review WHERE blog_id = 0
+06/07/2015 06:13:08 PM /admin/modules/review/delete.php
+Unknown column 'blog_id' in 'where clause'
+DELETE FROM review WHERE blog_id = 0
+07/07/2015 03:44:44 PM /ajax_v1/ajax_load_test.php
+Query was empty
+
+07/07/2015 04:17:23 PM /admin/modules/news/add.php?
+ Unknown column 'new_same_id' in 'field list'
+INSERT  INTO news(new_category_id,new_module_id,new_title,new_title_rewrite,new_same_id,new_picture_web,new_teaser,new_description,new_date,new_order,new_hot,new_new,new_active,new_search) VALUES (572,1,'ádfasdfasdfasfdf','adfasdfasdfasfdf','ádfasdf','','ádfasf','<p>sdfasdfasdf</p>
+',1436278626,1,0,0,1,'ádfasdfasdfasfdf ádfasf sdfasdfasdf 
+ ')
+07/07/2015 04:18:37 PM /admin/modules/news/add.php?
+ Unknown column 'new_hot' in 'field list'
+INSERT  INTO news(new_category_id,new_module_id,new_title,new_title_rewrite,new_picture_web,new_teaser,new_description,new_date,new_order,new_hot,new_new,new_active,new_search) VALUES (0,1,'aasdfasdf','aasdfasdf','','ádfasdfasdf','<p>&aacute;dfasdfasdf</p>
+',1436278709,1,0,0,1,'aasdfasdf ádfasdfasdf ádfasdfasdf 
+ ')
+07/07/2015 04:22:30 PM /admin/modules/news/add.php?
+ Unknown column 'new_same_id' in 'field list'
+INSERT  INTO news(new_category_id,new_module_id,new_title,new_title_rewrite,new_same_id,new_picture_web,new_teaser,new_description,new_date,new_order,new_hot,new_new,new_active,new_picture,new_search) VALUES (569,1,'ádfasdfasdfasfdf','adfasdfasdfasfdf','ádfasdfasdf','','ádfasdf','<p>&aacute;dfasdfasd</p>
+',1436278948,1,0,0,1,'wsf1436278950.jpg','ádfasdfasdfasfdf ádfasdf ádfasdfasd 
+ ')
+08/07/2015 03:42:02 AM /admin/modules/group_question/delete.php?record_id=1&returnurl=bGlzdGluZy5waHA/
+Unknown column 'cat_picture' in 'field list'
+SELECT cat_picture FROM question_group WHERE queg_id=1
+08/07/2015 03:43:54 AM /admin/modules/group_question/delete.php?record_id=1&returnurl=bGlzdGluZy5waHA/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM question_group WHERE queg_id=1' at line 1
+SELECT  FROM question_group WHERE queg_id=1
+08/07/2015 05:09:13 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+08/07/2015 05:35:24 AM /admin/modules/mark/listing.php
+Table 'vnp_university.test_link' doesn't exist
+SELECT ttl_id, ttl_name FROM test_link ORDER BY ttl_id ASC
+08/07/2015 10:34:09 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+   LIMIT 0,12' at line 4
+SELECT *
+   FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+   WHERE que_active = 1 AND que_queg_id = 
+   ORDER BY que_id DESC
+   LIMIT 0,12
+08/07/2015 10:35:18 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:35:37 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:35:37 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:38:40 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:38:44 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:38:45 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:38:45 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:38:52 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:38:52 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:39:05 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:39:05 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:39:06 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:39:15 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:39:16 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:39:16 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:39:16 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:39:17 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:39:17 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:03 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:04 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:04 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:04 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:05 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:05 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:05 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:05 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:06 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:06 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+08/07/2015 10:42:06 PM /cau-hoi-ve-cong-ty-t10/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+                  LIMIT 0,12' at line 4
+SELECT *
+                  FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+                  WHERE que_active = 1 AND que_queg_id = 
+                  ORDER BY que_id DESC
+                  LIMIT 0,12
+09/07/2015 12:01:57 AM /ajax_v1/ajax_load_test.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY que_id DESC
+   LIMIT 0,12' at line 4
+SELECT *
+   FROM question INNER JOIN question_group ON question.que_queg_id = question_group.queg_id 
+   WHERE que_active = 1 AND que_queg_id = 
+   ORDER BY que_id DESC
+   LIMIT 0,12
+09/07/2015 12:55:03 AM /ket-qua/
+Unknown column 'queg' in 'where clause'
+SELECT queg_count FROM question_group WHERE queg_id = 10 AND queg
+09/07/2015 01:01:28 AM /test/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'done_ques_group =1' at line 1
+SELECT test_done_id FROM test_done WHERE done_user_id=47AND done_ques_group =1
+09/07/2015 02:36:22 AM /admin/modules/room_multi/edit.php?record_id=2&returnurl=bGlzdGluZy5waHA/
+Unknown column 'cat_parent_id' in 'field list'
+SELECT roo_id,cat_parent_id, roo_id,roo_name,roo_order,roo_type,roo_parent_id,roo_has_child FROM room WHERE 1 AND lang_id = 1 ORDER BY cat_parent_id ASC,roo_order ASC, roo_name ASC
+09/07/2015 02:37:18 AM /admin/modules/room_multi/edit.php?record_id=2&returnurl=bGlzdGluZy5waHA/
+Unknown column 'roo_type' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,roo_order,roo_type,roo_parent_id,roo_has_child FROM room WHERE 1 AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC, roo_name ASC
+09/07/2015 05:12:43 AM /admin/modules/mark/listing.php
+Unknown column 'done_test_link' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_test_link = 0
+09/07/2015 06:03:31 AM /admin/modules/mark/listing.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_test.use_id = test_done.done_user_id AND test_done.done_ques_group = questi' at line 1
+SELECT * FROM user_test, test_done, question_group WHERE 1 user_test.use_id = test_done.done_user_id AND test_done.done_ques_group = question_group.queg_id ORDER BY test_done_id DESC LIMIT 0,30
+09/07/2015 06:25:50 AM /admin/modules/mark/listing.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_test.use_id = test_done.done_user_id AND test_done.done_ques_group = questi' at line 3
+SELECT * 
+                                 FROM user_test, test_done, question_group 
+                                 WHERE 1 user_test.use_id = test_done.done_user_id AND test_done.done_ques_group = question_group.queg_id
+09/07/2015 06:25:59 AM /admin/modules/mark/listing.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_test.use_id = test_done.done_user_id AND test_done.done_ques_group = questi' at line 3
+SELECT * 
+                                 FROM user_test, test_done, question_group 
+                                 WHERE 1 user_test.use_id = test_done.done_user_id AND test_done.done_ques_group = question_group.queg_id
+09/07/2015 06:31:07 AM /admin/modules/mark/listing.php
+Unknown column 'test_done.done_user_id' in 'where clause'
+SELECT * 
+                                       FROM user_test 
+                                       WHERE  user_test.use_id = test_done.done_user_id AND test_done.done_ques_group = question_group.queg_id 
+                                       ORDER BY test_done_id 
+                                       DESC LIMIT 0,30
+09/07/2015 09:33:16 AM /admin/modules/mark/listing.php
+Table 'vnp_university.queg_group' doesn't exist
+SELECT queg_id, queg_name FROM queg_group ORDER BY queg_id ASC
+09/07/2015 09:33:17 AM /admin/modules/mark/listing.php
+Table 'vnp_university.queg_group' doesn't exist
+SELECT queg_id, queg_name FROM queg_group ORDER BY queg_id ASC
+09/07/2015 09:33:18 AM /admin/modules/mark/listing.php
+Table 'vnp_university.queg_group' doesn't exist
+SELECT queg_id, queg_name FROM queg_group ORDER BY queg_id ASC
+09/07/2015 09:33:36 AM /admin/modules/mark/listing.php
+Unknown column 'done_test_link' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_test_link = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:33:36 AM /admin/modules/mark/listing.php
+Unknown column 'done_test_link' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_test_link = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:33:37 AM /admin/modules/mark/listing.php
+Unknown column 'done_test_link' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_test_link = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:33:37 AM /admin/modules/mark/listing.php
+Unknown column 'done_test_link' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_test_link = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:39:42 AM /admin/modules/mark/listing.php
+Unknown column 'done_test_link' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_test_link = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:41:38 AM /admin/modules/mark/listing.php
+Unknown column 'done_queg_group' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_queg_group = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:41:38 AM /admin/modules/mark/listing.php
+Unknown column 'done_queg_group' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_queg_group = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:41:39 AM /admin/modules/mark/listing.php
+Unknown column 'done_queg_group' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_queg_group = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:41:39 AM /admin/modules/mark/listing.php
+Unknown column 'done_queg_group' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_queg_group = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:41:39 AM /admin/modules/mark/listing.php
+Unknown column 'done_queg_group' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_queg_group = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:41:40 AM /admin/modules/mark/listing.php
+Unknown column 'done_queg_group' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_queg_group = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:41:40 AM /admin/modules/mark/listing.php
+Unknown column 'done_queg_group' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_queg_group = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:41:41 AM /admin/modules/mark/listing.php
+Unknown column 'done_queg_group' in 'where clause'
+SELECT count(*) AS count FROM test_done WHERE 1  AND done_queg_group = 10 AND done_user_id IN (43, 45, 46, 47, 43, 45, 46, 47) 
+09/07/2015 09:42:14 AM /admin/modules/mark/listing.php
+Table 'vnp_university.users_test' doesn't exist
+SELECT use_id, use_fullname, use_email, use_phone FROM users_test WHERE use_id IN (47, 47, 47)
+09/07/2015 09:42:14 AM /admin/modules/mark/listing.php
+Table 'vnp_university.users_test' doesn't exist
+SELECT use_id, use_fullname, use_email, use_phone FROM users_test WHERE use_id IN (47, 47, 47)
+09/07/2015 09:42:14 AM /admin/modules/mark/listing.php
+Table 'vnp_university.users_test' doesn't exist
+SELECT use_id, use_fullname, use_email, use_phone FROM users_test WHERE use_id IN (47, 47, 47)
+10/07/2015 03:49:54 AM /admin/modules/room_multi/delete.php?record_id=5&returnurl=bGlzdGluZy5waHA/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM room WHERE roo_id=5' at line 1
+SELECT  FROM room WHERE roo_id=5
+10/07/2015 04:34:07 AM /admin/modules/mark/delete.php?record_id=10&returnurl=bGlzdGluZy5waHA/
+ Unknown column 'done_id' in 'where clause'
+DELETE FROM test_done WHERE done_id =10
+10/07/2015 10:31:20 AM /admin/modules/mark/listing.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC' at line 1
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_tity IN () AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:31:32 AM /admin/modules/mark/listing.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC' at line 1
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN () AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:31:57 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:31:58 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:31:58 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:31:58 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:31:59 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:31:59 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:31:59 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:00 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:00 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:00 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:00 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:01 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:01 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:01 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:01 AM /admin/modules/mark/listing.php
+Unknown column 'city' in 'field list'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:19 AM /admin/modules/mark/listing.php
+Unknown column 'Array' in 'where clause'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,roo_city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+10/07/2015 10:32:20 AM /admin/modules/mark/listing.php
+Unknown column 'Array' in 'where clause'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,roo_city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+13/07/2015 03:56:31 AM /admin/modules/mark/listing.php
+Unknown column 'Array' in 'where clause'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,roo_city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+13/07/2015 03:56:32 AM /admin/modules/mark/listing.php
+Unknown column 'Array' in 'where clause'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,roo_city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+13/07/2015 03:56:32 AM /admin/modules/mark/listing.php
+Unknown column 'Array' in 'where clause'
+SELECT roo_id,roo_parent_id, roo_id,roo_name,roo_city FROM room WHERE roo_city IN (Array) AND lang_id = 1 ORDER BY roo_parent_id ASC,roo_order ASC,roo_name ASC
+13/07/2015 08:55:42 AM /admin/modules/mark/listing.php?search=1&iRoo=0&iQue=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND question_group.queg_id = 1' at line 6
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    AND  AND question_group.queg_id = 1
+13/07/2015 08:56:00 AM /admin/modules/mark/listing.php?search=1&iRoo=0&iQue=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND question_group.queg_id = 1' at line 6
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    AND  AND question_group.queg_id = 1
+13/07/2015 08:56:00 AM /admin/modules/mark/listing.php?search=1&iRoo=0&iQue=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND question_group.queg_id = 1' at line 6
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    AND  AND question_group.queg_id = 1
+13/07/2015 08:56:00 AM /admin/modules/mark/listing.php?search=1&iRoo=0&iQue=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND question_group.queg_id = 1' at line 6
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    AND  AND question_group.queg_id = 1
+13/07/2015 08:56:03 AM /admin/modules/mark/listing.php?search=1&iRoo=0&iQue=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND question_group.queg_id = 1' at line 6
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    AND  AND question_group.queg_id = 1
+13/07/2015 08:56:03 AM /admin/modules/mark/listing.php?search=1&iRoo=0&iQue=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND question_group.queg_id = 1' at line 6
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    AND  AND question_group.queg_id = 1
+13/07/2015 08:56:04 AM /admin/modules/mark/listing.php?search=1&iRoo=0&iQue=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND question_group.queg_id = 1' at line 6
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    AND  AND question_group.queg_id = 1
+13/07/2015 09:56:57 AM /admin/modules/mark/listing.php?search=1&iName=Phong&iRoo=1&iQue=0
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%Phong% AND room.roo_id = 1
+                                    ORDER BY test_d' at line 6
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    AND use_fullname LIKE %Phong% AND room.roo_id = 1
+                                    ORDER BY test_done.test_done_id DESC
+13/07/2015 10:14:25 AM /admin/modules/mark/listing.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESCLIMIT 0,30' at line 7
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    
+                                    ORDER BY test_done.test_done_id DESCLIMIT 0,30
+13/07/2015 10:14:26 AM /admin/modules/mark/listing.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESCLIMIT 0,30' at line 7
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    
+                                    ORDER BY test_done.test_done_id DESCLIMIT 0,30
+13/07/2015 10:14:26 AM /admin/modules/mark/listing.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESCLIMIT 0,30' at line 7
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    
+                                    ORDER BY test_done.test_done_id DESCLIMIT 0,30
+13/07/2015 10:14:26 AM /admin/modules/mark/listing.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESCLIMIT 0,30' at line 7
+SELECT test_done.test_done_id, test_done.done_ques_group, test_done.done_mark, test_done.done_date, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+                                    
+                                    ORDER BY test_done.test_done_id DESCLIMIT 0,30
+15/07/2015 08:54:40 AM /ajax_v1/ajax_load_library.php
+Unknown column 'undefined' in 'where clause'
+SELECT * FROM gallery WHERE gallery_id = undefined AND gallery_active = 1
+15/07/2015 09:29:16 AM /thu-vien/
+Unknown column 'con_address' in 'field list'
+SELECT con_email, con_address, con_phone_1 
+                                          FROM configuration 
+                                          LIMIT 1
+15/07/2015 09:30:12 AM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 09:30:15 AM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 09:30:15 AM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 09:30:15 AM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 09:30:16 AM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 09:30:18 AM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 09:30:19 AM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 09:30:22 AM /thu-vien/dang-ky.html
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 09:30:24 AM /thu-vien/dang-ky.html
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 02:33:22 PM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 02:33:23 PM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+15/07/2015 03:03:12 PM /thu-vien/
+Unknown column 'new_active' in 'where clause'
+SELECT Count(*) AS count
+									FROM gallery
+									WHERE new_active = 1
+04/10/2015 05:47:35 PM /admin/modules/library/listing_view.php
+Unknown column 'view_library.view_user_id' in 'where clause'
+SELECT count(*) AS count
+										   FROM view_library, user_test, library
+										   WHERE view_library.view_user_id = user_test.use_id
+										   AND view_library.view_library_id = library.lib_id
+04/10/2015 05:47:35 PM /admin/modules/library/listing_view.php
+Unknown column 'view_library.view_user_id' in 'where clause'
+SELECT count(*) AS count
+										   FROM view_library, user_test, library
+										   WHERE view_library.view_user_id = user_test.use_id
+										   AND view_library.view_library_id = library.lib_id
+04/10/2015 05:48:51 PM /admin/modules/library/listing_view.php?search=1&iName=Ch%C3%A2m
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_test.use_fullname LIKE '%Châm%'' at line 4
+SELECT count(*) AS count
+										   FROM view_library, user_test, library
+										   WHERE view_library.vie_user_id = user_test.use_id
+										   AND view_library.vie_library_id = library.lib_idAND user_test.use_fullname LIKE '%Châm%'
+04/10/2015 05:49:29 PM /admin/modules/library/listing_view.php?search=1&iName=ch%C3%A2m
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_test.use_fullname LIKE '%châm%'' at line 4
+SELECT count(*) AS count
+										   FROM view_library, user_test, library
+										   WHERE view_library.vie_user_id = user_test.use_id
+										   AND view_library.vie_library_id = library.lib_idAND user_test.use_fullname LIKE '%châm%'
+05/10/2015 03:20:17 PM /ho-tro-kinh-doanh/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+SELECT vie_count FROM view_library WHERE vie_library_id = 
+05/10/2015 03:20:18 PM /ho-tro-kinh-doanh/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+SELECT vie_count FROM view_library WHERE vie_library_id = 
+05/10/2015 11:53:09 AM /admin/modules/library/listing_view.php
+Unknown column 'view_library.view_count' in 'where clause'
+SELECT count(*) AS count
+										   FROM view_library, user_test, library
+										   WHERE view_library.vie_user_id = user_test.use_id
+										   AND view_library.vie_library_id = library.lib_id AND view_library.view_count BETWEEN 0 AND 128
+07/10/2015 04:04:50 AM /admin/modules/library/listing_view.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'view_library.vie_library_id = 22' at line 4
+SELECT count(*) AS count
+										   FROM view_library, user_test, library
+										   WHERE view_library.vie_user_id = user_test.use_id
+										   AND view_library.vie_library_id = library.lib_id AND view_library.vie_count BETWEEN 0 AND 128AND view_library.vie_library_id = 22
+07/10/2015 03:25:28 PM /ajax_v1/ajax_update_survey.php
+Unknown column 'sur_lv3' in 'field list'
+UPDATE survey SET sur_lv3=sur_lv3+1 WHERE sur_id =17
+07/10/2015 03:33:09 PM /ajax_v1/ajax_update_survey.php
+Unknown column 'sur_lv2' in 'field list'
+UPDATE done_survey SET sur_lv2=sur_lv2+1 WHERE don_survey_id =17
+07/10/2015 03:33:57 PM /ajax_v1/ajax_update_survey.php
+Unknown column 'sur_lv3' in 'field list'
+UPDATE done_survey SET sur_lv3=sur_lv3+1 WHERE don_survey_id =17
+07/10/2015 03:41:22 PM /ajax_v1/ajax_update_test.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+SELECT * FROM survey_group WHERE sur_group_active = 1 AND sur_parent_id = 
+07/10/2015 05:23:25 PM /ajax_v1/ajax_update_survey.php
+Unknown column 'don_sur_lv4' in 'where clause'
+UPDATE survey_total_user SET suru_total=suru_total+1,suru_last_done = 1444213405 WHERE suru_type_id =don_sur_lv4
+07/10/2015 10:10:23 PM /ajax_v1/ajax_update_survey.php
+Unknown column 'done_survey_id' in 'where clause'
+SELECT count(*) AS count FROM done_survey WHERE done_survey_id =15
+07/10/2015 10:10:29 PM /ajax_v1/ajax_update_survey.php
+Unknown column 'done_survey_id' in 'where clause'
+SELECT count(*) AS count FROM done_survey WHERE done_survey_id =15
+08/10/2015 02:51:59 AM /admin/modules/survey/add.php?
+ Unknown column 'sur_group_id' in 'where clause'
+UPDATE room SET sur_group_has_child = 1 WHERE sur_group_id = 16
+08/10/2015 02:52:24 AM /admin/modules/survey/add.php?
+ Unknown column 'sur_group_id' in 'where clause'
+UPDATE room SET sur_group_has_child = 1 WHERE sur_group_id = 16
+08/10/2015 08:58:03 AM /admin/modules/survey_question/listing.php
+Unknown column 'don_sur_id' in 'order clause'
+SELECT *
+										 FROM done_survey
+										 WHERE 1 
+										 ORDER BY don_sur_id DESC
+										 LIMIT 0,30
+08/10/2015 08:58:04 AM /admin/modules/survey_question/listing.php
+Unknown column 'don_sur_id' in 'order clause'
+SELECT *
+										 FROM done_survey
+										 WHERE 1 
+										 ORDER BY don_sur_id DESC
+										 LIMIT 0,30
+08/10/2015 10:43:47 AM /admin/modules/survey_question/export_excel.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+SELECT queg_name 
+                                              FROM question_group
+                                              WHERE queg_id =
+09/10/2015 06:03:34 AM /admin/modules/test_mark/delete.php?record_id=235&returnurl=bGlzdGluZy5waHA/
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE done_write_id = 235' at line 1
+SELECT done_write_user_id  WHERE done_write_id = 235
+09/10/2015 10:45:33 AM /admin/modules/test_mark/export_excel.php
+Unknown column 'test_done_write.done_write_id' in 'field list'
+SELECT test_done_write.done_write_id, test_done_write.done_write_mark, test_done_write.done_user_id, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+					             AND user_test.use_room = 69
+					            GROUP BY user_test.use_id DESC
+09/10/2015 10:47:17 AM /admin/modules/test_mark/export_excel.php
+Unknown column 'test_done_write.done_write_id' in 'field list'
+SELECT test_done_write.done_write_id, test_done_write.done_write_mark, test_done_write.done_user_id, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done.done_user_id
+                                    AND test_done.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+					            
+					            GROUP BY user_test.use_id DESC
+09/10/2015 10:47:47 AM /admin/modules/test_mark/export_excel.php
+Unknown column 'test_done_write.done_user_id' in 'field list'
+SELECT test_done_write.done_write_id, test_done_write.done_write_mark, test_done_write.done_user_id, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done_write, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done_write.done_user_id
+                                    AND test_done_write.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+					            
+					            GROUP BY user_test.use_id DESC
+09/10/2015 10:48:33 AM /admin/modules/test_mark/export_excel.php
+Unknown column 'test_done_write.done_user_id' in 'field list'
+SELECT test_done_write.done_write_id, test_done_write.done_write_mark, test_done_write.done_user_id, question_group.queg_id, question_group.queg_name, user_test.use_id, user_test.use_fullname, room.roo_id, room.roo_name 
+                                    FROM test_done_write, user_test, question_group, room
+                                    WHERE user_test.use_id = test_done_write.done_user_id
+                                    AND test_done_write.done_ques_group = question_group.queg_id
+                                    AND user_test.use_room = room.roo_id
+					            
+					            GROUP BY user_test.use_id DESC
+13/10/2015 09:24:47 AM /dang-nhap.html
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 1, 1444703087 )' at line 1
+INSERT INTO member_test (mem_fullname, mem_email, mem_address, mem_phone, mem_active, mem_created) VALUES (a, , , , 1, 1444703087 )
+13/10/2015 09:24:58 AM /dang-nhap.html
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 1, 1444703098 )' at line 1
+INSERT INTO member_test (mem_fullname, mem_email, mem_address, mem_phone, mem_active, mem_created) VALUES (a, , , , 1, 1444703098 )
+13/10/2015 09:25:21 AM /dang-nhap.html
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Huy Phong, , Nhân viên IT, 12312123123, 1, 1444703121 )' at line 1
+INSERT INTO member_test (mem_fullname, mem_email, mem_address, mem_phone, mem_active, mem_created) VALUES (Nguyễn Huy Phong, , Nhân viên IT, 12312123123, 1, 1444703121 )
+13/10/2015 09:25:48 AM /dang-nhap.html
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Huy Phong, , Nhân viên IT, 12312123123, 1, 1444703148 )' at line 1
+INSERT INTO member_test (mem_fullname, mem_email, mem_address, mem_phone, mem_active, mem_created) VALUES (Nguyễn Huy Phong, , Nhân viên IT, 12312123123, 1, 1444703148 )
+13/10/2015 09:25:52 AM /dang-nhap.html
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Huy Phong, , Nhân viên IT, 12312123123, 1, 1444703152 )' at line 1
+INSERT INTO member_test (mem_fullname, mem_email, mem_address, mem_phone, mem_active, mem_created) VALUES (Nguyễn Huy Phong, , Nhân viên IT, 12312123123, 1, 1444703152 )
+13/10/2015 09:26:02 AM /dang-nhap.html
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Huy Phong, , IT, 123123123, 1, 1444703162 )' at line 1
+INSERT INTO member_test (mem_fullname, mem_email, mem_address, mem_phone, mem_active, mem_created) VALUES (Nguyễn Huy Phong, , IT, 123123123, 1, 1444703162 )
+13/10/2015 03:06:35 PM /test/phan-1-rs20.html
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND done_ques_group=20' at line 3
+SELECT done_yet 
+												FROM test_done 
+												WHERE done_user_id= AND done_ques_group=20
+13/10/2015 03:36:17 PM /test/phan-1-rs20.html
+Unknown column 'mtd_ques_group' in 'where clause'
+SELECT mtd_yet 
+												FROM member_test_done 
+												WHERE mtd_mem_id=8 AND mtd_ques_group=20
+14/10/2015 09:07:55 AM /ajax_v1/ajax_update_recruit.php
+Unknown column 'mtw_write_ans' in 'field list'
+INSERT INTO member_test_write (mtw_ans_id, mtw_write_ans, mtw_mem_id, mtw_ques_group) 
+																VALUES(7,'sssssssssssssssssssssssss',8,25)
+14/10/2015 09:08:41 AM /ajax_v1/ajax_update_recruit.php
+Unknown column 'mtw_ques_group' in 'field list'
+INSERT INTO member_test_write (mtw_ans_id, mtw_ans_text, mtw_mem_id, mtw_ques_group) 
+																VALUES(8,'aaaaaaaaaaaaaaaaaa',8,25)
+14/10/2015 09:19:49 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:19:49 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:19:50 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:19:50 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:19:51 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:19:51 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:19:52 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:19:52 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:19:52 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:05 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:05 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:05 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:05 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:05 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:06 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:06 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:06 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:06 AM /admin/modules/recruit/listing.php
+Table 'vnp_university.member_done_write' doesn't exist
+SELECT count(*) AS count 
+											 FROM member_test_done, member_test, question_group, member_done_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_done_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_done_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                  
+14/10/2015 09:20:54 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.dmtw_ans_id' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.dmtw_ans_id, member_test_write.mtw_write_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:20:54 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.dmtw_ans_id' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.dmtw_ans_id, member_test_write.mtw_write_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:20:54 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.dmtw_ans_id' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.dmtw_ans_id, member_test_write.mtw_write_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:20:54 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.dmtw_ans_id' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.dmtw_ans_id, member_test_write.mtw_write_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:20:54 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.dmtw_ans_id' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.dmtw_ans_id, member_test_write.mtw_write_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:21:07 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_write_mark' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_write_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:21:08 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_write_mark' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_write_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:21:08 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_write_mark' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_write_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:21:08 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_write_mark' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_write_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:21:24 AM /admin/modules/recruit/listing.php
+Unknown column 'mtw_test_done.mtw_ques_group' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:21:25 AM /admin/modules/recruit/listing.php
+Unknown column 'mtw_test_done.mtw_ques_group' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:07 AM /admin/modules/recruit/listing.php
+Unknown column 'mtw_test_done.mtw_ques_group' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:08 AM /admin/modules/recruit/listing.php
+Unknown column 'mtw_test_done.mtw_ques_group' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:08 AM /admin/modules/recruit/listing.php
+Unknown column 'mtw_test_done.mtw_ques_group' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:08 AM /admin/modules/recruit/listing.php
+Unknown column 'mtw_test_done.mtw_ques_group' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, mtw_test_done.mtw_ques_group, mtw_test_done.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:32 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_created' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, member_test_write.mtw_ques_group, member_test_write.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:32 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_created' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, member_test_write.mtw_ques_group, member_test_write.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:33 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_created' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, member_test_write.mtw_ques_group, member_test_write.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:33 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_created' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, member_test_write.mtw_ques_group, member_test_write.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:33 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_created' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, member_test_write.mtw_ques_group, member_test_write.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:33 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_created' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, member_test_write.mtw_ques_group, member_test_write.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:33 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_created' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, member_test_write.mtw_ques_group, member_test_write.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 09:32:33 AM /admin/modules/recruit/listing.php
+Unknown column 'member_test_write.mtw_created' in 'field list'
+SELECT member_test_write.mtw_id,member_test_write.mtw_ans_id, member_test_write.mtw_done_mark,member_test_write.mtw_comment, member_test_write.mtw_ques_group, member_test_write.mtw_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname
+                                 FROM member_test_done, member_test, question_group, member_test_write
+											 WHERE member_test_done.mtd_mem_id = member_test.mem_id
+                                  AND member_test_done.mtd_ques_group = question_group.queg_id
+                                  AND member_test_write.mtw_mem_id = member_test_done.mtd_mem_id
+                                  AND member_test_write.mtw_ques_group = member_test_done.mtd_ques_group
+                                    
+                                    ORDER BY member_test_write.mtw_id DESC LIMIT 0,30
+14/10/2015 10:23:47 AM /admin/modules/recruit/export_excel_tl.php
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ELECT member_test_done.mtd_id, member_test_done.mtd_ques_group, member_test_done' at line 1
+ELECT member_test_done.mtd_id, member_test_done.mtd_ques_group, member_test_done.mtd_done_mark,member_test_done.mtd_mem_id, member_test_done.mtd_created, question_group.queg_id, question_group.queg_name, member_test.mem_id, member_test.mem_fullname 
+                                    FROM member_test_done, member_test, question_group
+                                    WHERE member_test_done.mtd_mem_id = member_test.mem_id 
+                                    AND member_test_done.mtd_ques_group = question_group.queg_id
+                                     AND member_test.mem_id LIKE '%%'
+16/10/2015 10:49:34 AM /dang-nhap.html
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1
+SELECT count(*) AS count FROM member_test WHERE mem_email = asfda@gmail.com
+16/10/2015 10:13:04 AM /admin/modules/recruit/edit.php?record_id=10&date=&name=a&ques=PH%E1%BA%A6N+6&returnurl=bGlzdGluZ190bC5waHA%2F
+ Unknown column 'mtw_done_mark' in 'field list'
+UPDATE member_test_done SET mtw_done_mark='9',mtw_comment='' WHERE mtd_id = 10 LIMIT 1
+16/10/2015 10:14:02 AM /admin/modules/recruit/edit.php?record_id=10&date=&name=a&ques=PH%E1%BA%A6N+6&returnurl=bGlzdGluZ190bC5waHA%2F
+ Unknown column 'mtw_done_mark' in 'field list'
+UPDATE member_test_done SET mtw_done_mark='9',mtw_comment='' WHERE mtd_id = 10 LIMIT 1
+16/10/2015 10:17:24 AM /admin/modules/recruit/edit.php?record_id=10&date=&name=a&ques=PH%E1%BA%A6N+6&returnurl=bGlzdGluZ190bC5waHA%2F
+ Unknown column 'mtw_done_mark' in 'field list'
+UPDATE member_test_done SET mtw_done_mark='9',mtw_comment='aa' WHERE mtd_id = 10 LIMIT 1
+23/10/2015 05:06:47 PM /danh-gia/-sv8.html
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+SELECT * FROM survey_group WHERE sur_group_active = 1 AND sur_parent_id = 
+23/10/2015 05:16:13 PM /danh-gia/khao-sat-chat-luong-su-kien-tuan-3-thang-9-2015-sv8.html
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+SELECT * FROM survey_group WHERE sur_group_active = 1 AND sur_parent_id = 
+29/10/2015 08:56:22 AM /
+Table 'db_thietkeweb360.category_multi' doesn't exist
+SELECT cat_name, cat_name_rewrite, cat_picture 
+						      		FROM category_multi
+						      		WHERE cat_active = 1
