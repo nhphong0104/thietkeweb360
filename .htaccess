@@ -1,0 +1,9 @@
+RewriteEngine on	
+	
+
+RewriteCond %{HTTP_HOST} ^www.thietkeweb360.com [NC]
+RewriteRule ^(.*)$ http://thietkeweb360.com/$1 [L,R=301]
+
+RewriteRule  ^$ 				/home/index.php [L]
+RewriteRule  ^category.html$ 	/home/type.php [L]
+RewriteRule  ^detail.html	 	/home/detail.php [L]
