@@ -11585,3 +11585,86 @@ IP:::1SELECT * from configuration WHERE lang_id = 1
 File : 
 Query time : 0.3360190392
 IP:::1SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/11/2015 10:02:23 AM /
+File : 
+Query time : 0.1600089073
+IP:::1SELECT * from configuration WHERE lang_id = 1
+05/11/2015 10:02:23 AM /
+File : 
+Query time : 0.0610039234
+IP:::1SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+05/11/2015 04:02:43 AM /admin/login.php
+File : 
+Query time : 0.4630270004
+IP:::1SELECT tra_text,tra_keyword FROM admin_translate
+05/11/2015 04:02:45 AM /admin/login.php
+File : 
+Query time : 0.4290249348
+IP:::1SELECT adm_id 
+										 FROM admin_user
+										 WHERE adm_loginname = 'admin' AND adm_password = '21232f297a57a5a743894a0e4a801fc3' AND adm_active = 1 AND adm_delete = 0
+05/11/2015 04:02:45 AM /admin/login.php
+File : 
+Query time : 0.2850160599
+IP:::1SELECT lang_path
+										 FROM languages
+										 WHERE lang_id=1
+05/11/2015 04:02:45 AM /admin/index.php
+File : 
+Query time : 0.0880050659
+IP:::1SELECT * 
+								 FROM modules 
+								 
+								 ORDER BY mod_order ASC
+05/11/2015 04:02:50 AM /admin/modules/configuration/statics.php
+File : 
+Query time : 0.0770041943
+IP:::1SHOW COLUMNS FROM configuration
+05/11/2015 04:02:50 AM /admin/modules/configuration/statics.php
+File : 
+Query time : 0.0610041618
+IP:::1SELECT sta_id,sta_title FROM statics_multi WHERE  statics_multi.lang_id = 1
+05/11/2015 04:02:57 AM /admin/modules/admin_user/add.php
+File : 
+Query time : 0.1110069752
+IP:::1SELECT * 
+										 FROM admin_user, admin_user_right, modules
+										 WHERE adm_id = adu_admin_id AND mod_id = adu_admin_module_id AND adm_isadmin = 0 AND
+										 adm_loginname='admin' AND adm_password='21232f297a57a5a743894a0e4a801fc3' AND adm_active=1 AND adm_delete = 0
+										 AND mod_id = 3
+05/11/2015 03:10:35 PM /
+File : 
+Query time : 0.0960049629
+IP:::1SELECT * from configuration WHERE lang_id = 1
+09/11/2015 08:00:30 AM /
+File : 
+Query time : 2.2591290474
+IP:::1SELECT * from configuration WHERE lang_id = 1
+09/11/2015 08:00:31 AM /
+File : 
+Query time : 0.4390249252
+IP:::1SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+12/11/2015 09:00:15 AM /
+File : 
+Query time : 0.1940109730
+IP:::1SELECT * from configuration WHERE lang_id = 1
+12/11/2015 08:41:48 PM /
+File : 
+Query time : 0.0540039539
+IP:::1SELECT * from configuration WHERE lang_id = 1
+12/11/2015 08:41:48 PM /
+File : 
+Query time : 0.0680038929
+IP:::1SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+21/11/2015 08:18:45 AM /
+File : 
+Query time : 0.1610090733
+IP:::1SELECT * from configuration WHERE lang_id = 1
+21/11/2015 08:18:45 AM /
+File : 
+Query time : 0.5380311012
+IP:::1SELECT cat_parent_id,cat_id FROM categories_multi  WHERE  lang_id = 1
+25/11/2015 08:42:03 AM /
+File : 
+Query time : 0.1910109520
+IP:::1SELECT * from configuration WHERE lang_id = 1

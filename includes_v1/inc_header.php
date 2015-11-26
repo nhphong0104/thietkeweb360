@@ -15,57 +15,7 @@
         </div>
         <div class="col-xs-6 col-sm-7 col-md-10 text-right no-padding">
             <ul class="main-menu hidden-sm hidden-xs">
-                <li>
-                    <a class="menu-item" href="https://apps.bizweb.vn/">Kho ứng dụng</a>
-                </li>
-
-                <li class="sub-lv2">
-                    <a class="menu-item" href="#">Thêm</a>
-                    <ul>
-                        <li class="icontop"></li>
-                        <li>
-                            <a href="https://docs.bizweb.vn">
-                                Tài liệu
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://docs.bizweb.vn/help.html">
-                                Trợ giúp
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://forum.bizweb.vn/">
-                                Diễn đàn
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://experts.bizweb.vn/">Chuyên gia Bizweb</a>
-                        </li>
-                        <li>
-                            <a href="http://blog.bizweb.vn/">
-                                Blog
-                            </a>
-                        </li>
-                        <li class="hidden-lg">
-                            <a href="//www.bizweb.vn/doi-tac.html">Đối tác</a>
-                        </li>
-                        <li>
-                            <a href="//www.bizweb.vn/website-tham-khao.html">
-                                Website tham khảo
-                            </a>
-                        </li>
-                        <li>
-                            <a href="//www.bizweb.vn/ve-chung-toi.html">
-                                Về chúng tôi
-                            </a>
-                        </li>
-                        <li>
-                            <a href="//www.bizweb.vn/lien-he.html">
-                                Liên hệ
-                            </a>
-                        </li>
-                    </ul>
-                </li>
+                
             </ul>
             <ul class="user-menu">
                 <li>

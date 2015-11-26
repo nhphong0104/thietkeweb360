@@ -14,9 +14,6 @@
       	      <div class="animated bounceInRight">
       	        <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 home-registration">
       	          <input id="site_name_banner" class="input-site-name" type="text" value="" placeholder="Nhập tên/kiểu website mà bạn muốn" onkeypress="return onInputStoreName(event, this)" />
-      	          <a class="btn-registration banner-home-registration event-Bizweb-Free-Trial-form-open" onclick="openCreateStorePopup(this);" href="javascript:;">
-      	            Tìm kiếm
-      	          </a>
       	        </div>
       	      </div>
       	     </div>

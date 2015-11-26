@@ -36,7 +36,7 @@ $var_path_root              = $domain_static . '/home/';
 
 $var_path_picture           = $domain_static . '/pictures/';
 $path_pictures_menus		= $var_path_picture . 'menus/';
-$path_pictures_cat		= $var_path_picture . 'categories/';
+$path_pictures_cat			= $var_path_picture . 'categories/';
 
 $var_path_theme				= $domain_static . '/themes/';
 $var_path_images            = $var_path_theme . VERSION_PATH . '/img/';
